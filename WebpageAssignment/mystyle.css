@@ -1,0 +1,17 @@
+table, th, td {
+	border: 3px outset solid black;
+	text-align: center;
+	font-size: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	background-image: url("1080p_HBK_autumn-morning_GI2.png");
+	text-align: center;
+
+}
+
+background-image {
+	opacity: 0.2;
+}
